@@ -12,12 +12,7 @@
             <p class="text-gray-700 mb-4">
                 {{ project.description }}
             </p>
-            <a
-                href="#"
-                class="text-secondary font-semibold transform transition-all duration-300 hover:text-primary hover:ps-1"
-                >
-                View Project
-            </a>
+            
         </div>
     </div>
 </template>

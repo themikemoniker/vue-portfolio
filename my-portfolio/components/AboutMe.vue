@@ -27,11 +27,6 @@
             <skill-chip>PHP | Laravel</skill-chip>
             <skill-chip>Java | Spring Boot</skill-chip>
         </div>
-        <button
-            @click="useScrollTo('showcase')"
-            class="bg-primary text-white px-8 py-4 rounded-full hover:bg-opacity-90 transition duration-300">
-            View My Work
-        </button>
       </div>
     </section>
   </template>

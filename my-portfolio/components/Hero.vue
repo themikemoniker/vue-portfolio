@@ -9,9 +9,6 @@
           <p class="text-lg">
             I am a passionate developer creating modern, responsive, and visually stunning applications.
           </p>
-          <a href="#portfolio" class="bg-primary text-white px-6 py-3 rounded-md transition hover:bg-opacity-80">
-            View My Work
-          </a>
         </div>
   
         <!-- SVG Images Grid (3 on top, 2 on bottom) -->
@@ -23,7 +20,7 @@
   
           <!-- Bottom row (Centered across 3 columns) -->
           <div class="col-span-3 flex justify-center gap-12">
-            <img src="~/assets/images/rust-svgrepo-com.svg" alt="Python Logo" class="w-20 h-20">
+            <img src="~/assets/images/python-127-svgrepo-com.svg" alt="Python Logo" class="w-20 h-20">
             <img src="~/assets/images/aws-svgrepo-com.svg" alt="Node.js Logo" class="w-20 h-20">
           </div>
         </div>

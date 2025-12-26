@@ -16,12 +16,11 @@
       </div>
     </header>
   </template>
-  
+
   <script setup lang="ts">
   const headerLinks = [
-    { name: "Linkedin", link: "https://www.linkedin.com/in/yourprofile" },
+    { name: "Linkedin", link: "https://www.linkedin.com/in/contact-jordan-swe/" },
     { name: "Github", link: "https://github.com/themikemoniker" },
-    { name: "Resume", link: "/documents/JordanCarlileResumeJan2025.pdf" },
-    { name: "Email Me", link: "mailto:jordancarlilepersonal@gmail.com?subject=Hey Jordan! I saw your portfolio and wanted to send you an email."}
+    { name: "Resume", link: "documents/JordanCarlileResumeJan2026.pdf" },
   ];
   </script>

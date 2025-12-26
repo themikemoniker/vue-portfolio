@@ -10,6 +10,7 @@ export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss"],
   css: ["~/assets/css/tailwind.css"],
   app: {
+    cdnURL: './',
     head: {
       link: [
         { rel: "preconnect", href: "https://fonts.googleapis.com" },
