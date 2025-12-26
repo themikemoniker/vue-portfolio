@@ -1,6 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
 export default defineNuxtConfig({
+  nitro: {
+    output: {
+      publicDir: '../docs'
+    }
+  },
   compatibilityDate: '2024-11-01',
   modules: ["@nuxtjs/tailwindcss"],
   css: ["~/assets/css/tailwind.css"],
